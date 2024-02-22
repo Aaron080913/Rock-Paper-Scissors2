@@ -1,0 +1,15 @@
+.box{
+    width: 55%;
+    min-width: 500px;
+    background-color: cornflowerblue;
+}
+.scores{
+    margin-bottom: 50px;
+    text-align: right;
+}
+.weapons{
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+}
